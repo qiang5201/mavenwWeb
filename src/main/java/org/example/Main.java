@@ -8,4 +8,8 @@ public class Main {
     void test(){
 
     }
+
+    void test2(){
+
+    }
 }
